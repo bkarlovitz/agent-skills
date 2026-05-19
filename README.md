@@ -40,7 +40,7 @@ That's it — drop the folder in and the skill is available.
 
 | Skill | What it does |
 |---|---|
-| [`spec-an-agent`](./skills/spec-an-agent) | A grilling session that stress-tests the *design* of an agentic workflow before it gets built. Interrogates trigger, scope, systems, authority, escalation, failure modes, and evals, then writes the spec inline as `WORKFLOW.md`, `CAPABILITIES.md`, `EVALS.md`, and ADRs. Implementation-agnostic by design — it pins down *what* the agent does and *under what authority*, never *how* it's built. |
+| <a href="./skills/spec-an-agent"><code>spec&#8209;an&#8209;agent</code></a> | A grilling session that stress-tests the *design* of an agentic workflow before it gets built. Interrogates trigger, scope, systems, authority, escalation, failure modes, and evals, then writes the spec inline as `WORKFLOW.md`, `CAPABILITIES.md`, `EVALS.md`, and ADRs. Implementation-agnostic by design — it pins down *what* the agent does and *under what authority*, never *how* it's built. |
 
 ## How these skills are structured
 
