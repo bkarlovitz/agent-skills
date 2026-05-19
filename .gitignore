@@ -1,0 +1,17 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs and temp
+*.log
+tmp/
+.tmp/
+
+# Node (only relevant if you ever add tooling to this repo)
+node_modules/
