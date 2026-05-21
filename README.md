@@ -40,6 +40,7 @@ That's it — drop the folder in and the skill is available.
 
 | Skill | What it does |
 |---|---|
+| <a href="./skills/shape-work"><code>shape&#8209;work</code></a> | A guided interview that helps a domain expert or other non-engineer articulate a problem and solution clearly enough to hand to an engineering team. Asks one question at a time to build a shared glossary, a problem-and-solution brief, and a conceptual domain model (concepts, facts, states, and rules), writing them inline as `GLOSSARY.md`, `BRIEF.md`, and `MODEL.md`. Deliberately makes *no* technical decisions — it captures *what* the problem is and *the shape of the domain*, leaving *how* to build it to the engineers. |
 | <a href="./skills/spec-an-agent"><code>spec&#8209;an&#8209;agent</code></a> | A grilling session that stress-tests the *design* of an agentic workflow before it gets built. Interrogates trigger, scope, systems, authority, escalation, failure modes, and evals, then writes the spec inline as `WORKFLOW.md`, `CAPABILITIES.md`, `EVALS.md`, and ADRs. Implementation-agnostic by design — it pins down *what* the agent does and *under what authority*, never *how* it's built. |
 
 ## How these skills are structured
